@@ -30,7 +30,6 @@ class CartItemSimple extends StatelessWidget {
                   onChanged: (index) {},
                 ),
                 // image part
-
                 Container(
                   height: 70,
                   width: 70,

@@ -25,6 +25,17 @@ class CartPages extends StatelessWidget {
             child: Column(
               children: [
                 CartItemSimple(),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Color(0xff4c53a5),
+                    borderRadius: BorderRadius.circular(20),
+                  ),
+                  child: Icon(
+                    Icons.add,
+                    color: Colors.white,
+                  ),
+                ),
+                Padding(padding: EdgeInsets.symmetric(vertical: 5)),
               ],
             ),
           ),
