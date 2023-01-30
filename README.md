@@ -13,10 +13,10 @@
 <br/>
 
 ## lOGiN
-<p style="text-align:center;">
+
 
 <img src="login_ui/LOGIN.png" alt="webresponsive">
-</p>
+
 <br/>
 
 ## Authentification 
