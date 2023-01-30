@@ -6,7 +6,13 @@
 </center>
 <br/>
 
+## Store
+<center>
+<img src="e_shop/STORE.gif" alt="webresponsive">
+</center>
+
 ## Authentification 
 <center>
 <img src="authentication_ui/UI_AUTH.gif" alt="webresponsive">
 </center>
+
