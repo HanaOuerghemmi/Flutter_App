@@ -27,13 +27,13 @@
 
 ## Circle progress
 <center>
-<img src="circleProg.gif" alt="webresponsive" >
+<img src="splash_screen/circleProg.gif" alt="circle" >
 </center>
 
 ## 404Not Found
 <br>
 <center>
-<img src="404.png" alt="webresponsive" >
+<img src="splash_screen/404.png" alt="404" >
 </center>
 
 
