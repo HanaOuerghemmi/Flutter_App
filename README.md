@@ -25,3 +25,15 @@
 <img src="authentication_ui/UI_AUTH.gif" alt="webresponsive">
 </center>
 
+## Circle progress
+<center>
+<img src="circleProg.gif" alt="webresponsive" >
+</center>
+
+## 404Not Found
+<br>
+<center>
+<img src="404.png" alt="webresponsive" >
+</center>
+
+
